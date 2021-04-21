@@ -12,4 +12,16 @@ It's so satisfying to see it creating, isn't it?😍
 Go and visit the [link](https://amishranpariya.github.io/maze_solver/) to see it live.🎉🥳
 PS: hit spacebar when done to download your very own SOLVED maze.
 
+#### Examples
+
+![solved maze image](maze25x25solved10.png)
+![solved maze image](maze25x25solved11.png)
+![solved maze image](maze25x25solved14.png)
+![solved maze image](maze25x25solved13.png)
+![solved maze image](maze25x25solved12.png)
+![solved maze image](mazesolved.png)
+![solved maze image](maze20x20solved.png)
+![solved maze image](maze25x25solved1.png)
+![solved maze image](maze25x25solved.png)
+
 > Happy coding🥰
