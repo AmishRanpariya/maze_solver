@@ -14,6 +14,8 @@ PS: hit spacebar when done to download your very own SOLVED maze.
 
 #### Examples
 
+![example](mazeSolver.gif)
+
 ![solved maze image](maze25x25solved10.png)
 ![solved maze image](maze25x25solved11.png)
 ![solved maze image](maze25x25solved14.png)
